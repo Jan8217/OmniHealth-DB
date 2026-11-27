@@ -7,7 +7,7 @@ OmniHealth-DB is a bilingual public-health dataset with **15,000 examples** in E
 ## 📣 Updates
 
 - **[Dataset release]** 🔥 [OmniHealth-DB](https://huggingface.co/datasets/ZhaokunYan/OmniHealth-DB) is publicly available on Hugging Face.
-- **[2026.10.19]** 🔥 Our [paper](https://doi.org/10.1038/s41597-026-08596-z) was accepted by **Scientific Data**. The citable early version went online on **2026.11.27**. The final Version of Record is in production.
+- **[2026.10.19]** 🔥 Our [paper](https://www.nature.com/articles/s41597-026-08596-z) was accepted by **Scientific Data** and published online on **2026.11.27**.
 
 ## Dataset
 
