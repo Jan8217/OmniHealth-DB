@@ -67,9 +67,40 @@ python examples/figure_for_data.py --output artifacts/omnihealth_distribution.pn
 
 The plotting example adapts the authors' [original Hugging Face plotting script](https://huggingface.co/datasets/ZhaokunYan/OmniHealth-DB/blob/1a496f8333c323f2af8a87ef98b388c1ef42fe76/code%20for%20data_/figure_for_data.py) using the public release counts. The dataset repository also hosts the original construction and evaluation scripts, prompts, and bilingual review rubrics. [Hugging Face files](https://huggingface.co/datasets/ZhaokunYan/OmniHealth-DB/tree/main)
 
-## Citation and data license
+## Citation
 
-- **Paper.** Yan, Z., Xu, S., Galea, G. et al. (2026). *A bilingual dataset for multi-scenario public health applications via counterfactual, dialogic, and adaptive modes*. Scientific Data. [DOI 10.1038/s41597-026-08596-z](https://doi.org/10.1038/s41597-026-08596-z)
-- **Dataset.** OmniHealth-DB. [DOI 10.57967/hf/10828](https://doi.org/10.57967/hf/10828)
+**Article.** Yan, Z., Xu, S., Galea, G. et al. (2026). *A bilingual dataset for multi-scenario public health applications via counterfactual, dialogic, and adaptive modes*. Scientific Data. Published online 27 November 2026. [DOI 10.1038/s41597-026-08596-z](https://doi.org/10.1038/s41597-026-08596-z)
+
+```bibtex
+@article{yan2026omnihealthdb,
+  title   = {A bilingual dataset for multi-scenario public health applications via counterfactual, dialogic, and adaptive modes},
+  author  = {Yan, Zhaokun and
+            Xu, Shan and
+            Galea, Gauden and
+            Wu, Fei and
+            Chen, Tianqi and
+            Wang, Lixu and
+            Liu, Zhaohan and
+            Hu, Zihan and
+            Zhang, Linyuan and
+            Wei, Yihan and
+            Dai, Chengxiao and
+            Feng, Lijie and
+            Fu, Zhuoqun and
+            Yi, Hongjie and
+            Liu, Boning and
+            Wu, Fan},
+  journal = {Scientific Data},
+  year    = {2026},
+  month   = nov,
+  issn    = {2052-4463},
+  doi     = {10.1038/s41597-026-08596-z},
+  url     = {https://doi.org/10.1038/s41597-026-08596-z}
+}
+```
+
+**Dataset.** OmniHealth-DB. [DOI 10.57967/hf/10828](https://doi.org/10.57967/hf/10828)
+
+## Data license
 
 The public dataset release uses [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), as recorded in the [Hugging Face dataset card](https://huggingface.co/datasets/ZhaokunYan/OmniHealth-DB).
